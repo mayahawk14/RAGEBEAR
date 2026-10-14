@@ -8,6 +8,6 @@ A CUTE DURABLE RAGE-SPONGE THAT IS A PERFECT VESSEL FOR SATISFYING YOUR (OUTER) 
 
 ## [WATCH OUR INFOMERCIAL HERE!!](https://youtu.be/RMKdaHunYlI?si=ZTBwKl2iwtPZ-E-N)
 
-For this project, I worked with one other person whom worked as the visuals designer and video editor. I was in charge of technical work such as wiring up the prototype, making the code for it, and explaining it's inner system during our presentation!
+For this project, I worked with one other person who functioned as the visuals designer and video editor. I was in charge of technical work such as wiring up the prototype, making the code for it, and explaining it's inner system during our presentation!
 
 ### Check out the RAGEBEAR slides for a better look at the breadboard and my code!
