@@ -1,9 +1,11 @@
+
 # RAGEBEAR
 ## DO YOU STRUGGLE WITH RAGING AT VIDEO GAMES?  
 ### HAVE YOU BROKEN ONE TOO MANY MONITORS?   
 #### RAGE BEAR IS YOUR PERFECT SOLUTION!  
 A CUTE DURABLE RAGE-SPONGE THAT IS A PERFECT VESSEL FOR SATISFYING YOUR (OUTER) RAGE!
 
+<img width="5400" height="7200" alt="RageBearRGB" src="https://github.com/user-attachments/assets/65d41714-60c5-4a1a-87b1-92e20e4c448d" />
 <img width="793" height="443" alt="Screenshot 2026-10-14 at 12 32 38 AM" src="https://github.com/user-attachments/assets/5008cfc7-1e48-4c5d-a071-dcb01a44b872" />
 
 ## [WATCH OUR INFOMERCIAL HERE!!](https://youtu.be/RMKdaHunYlI?si=ZTBwKl2iwtPZ-E-N)
